@@ -25,7 +25,7 @@ SECRET_KEY = '^d&8m621^9l!qma853bxq_6@qijbpxtv&v78k9unbk&%$097uo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ec2-18-220-90-178.us-east-2.compute.amazonaws.com']
+ALLOWED_HOSTS = []
 
 #check if its reflecting
 
