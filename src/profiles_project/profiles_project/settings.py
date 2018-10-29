@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['ec2-18-220-90-178.us-east-2.compute.amazonaws.com']
 
+#check if its reflecting
+
 
 # Application definition
 
